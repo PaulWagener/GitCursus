@@ -15,4 +15,4 @@ Tuesday: inherit monday
 Wednesday: loud music
 Thursday:  SELF STUDY WOOHOOOO
 Friday: company drinks hehe
-
+Weekend: be lazy recover from hangover
