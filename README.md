@@ -27,3 +27,12 @@ Wednesday: loud music
 Thursday:  SELF STUDY WOOHOOOO
 Friday: company drinks hehe
 Weekend: be lazy recover from hangover
+
+-
+
+## Images
+<p align="center">
+  <img src="images/beach.jpg" width=300 height=200>
+  <img src="images/landscape.jpg" width=300 height=200>
+  <img src="images/dawn.jpg" width=300 height=200>
+</p>
